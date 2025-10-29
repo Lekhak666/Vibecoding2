@@ -80,3 +80,11 @@ Solidity Language Docs
 OpenZeppelin Contracts
 
 Aave Flash Loans Explained
+
+
+
+
+![WhatsApp Image 2025-10-29 at 13 54 13_e167fd34](https://github.com/user-attachments/assets/02fa0cd1-00de-4a78-8541-171e1f7958d1)
+
+
+
