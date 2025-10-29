@@ -81,7 +81,7 @@ OpenZeppelin Contracts
 
 Aave Flash Loans Explained
 
-
+Contract Address: https://celo-sepolia.blockscout.com/tx/0x2269779bc3c79f4f8c9a46f010ff1551afabef4abdf6beef1bebfccbe267419e
 
 
 ![WhatsApp Image 2025-10-29 at 13 54 13_e167fd34](https://github.com/user-attachments/assets/02fa0cd1-00de-4a78-8541-171e1f7958d1)
